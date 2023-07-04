@@ -4,3 +4,5 @@ This app is a authenticated app. It can accept fake login with details, username
 It uses react-infinite-scroll-component which is open source.
 
 After creating React app using npm create-react-app . you can replace these files in src folder of the app.
+<img width="960" alt="image" src="https://github.com/Ayush-kumar-123/Infinite-scroll-with-random-user-api/assets/59064249/f84bc524-ef6d-4688-8f83-cb6b3d5e947b">
+<img width="960" alt="image" src="https://github.com/Ayush-kumar-123/Infinite-scroll-with-random-user-api/assets/59064249/edda1a3b-6d28-465c-aec8-d55c51746de0">
